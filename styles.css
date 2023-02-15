@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+.container{
+	flex-flow:row wrap;
+	justify-content:center;
+}
+.item3{
+	background-color:green;
+}
+.item1{
+	background-color:red;
+}
+.item2{
+	background-color:blue;
+}
