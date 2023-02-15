@@ -8,21 +8,24 @@
 	justify-content:center;
 }
 .item3{
-	padding:20px;
+	padding-right:50px;
+	padding-bottom:50px;
 	background-color:green;
 	width:800;
 	height:200;
 }
 .item1{
 	background-color:red;
-	padding:20px;
+	padding-right:50px;
+	padding-bottom:50px;
 	width:800;
 	height:200;
 }
 .item2{
 
 	background-color:blue;
-	padding:20px;
+	padding-right:50px;
+	padding-bottom:50px;
 	width:800;
 	height:200;
 }
