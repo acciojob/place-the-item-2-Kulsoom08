@@ -2,19 +2,27 @@
 /* Your CSS Code here. */
 .container{
 	display:flex;
-	width:100px;
+	width:200px;
 	height:20px;
 	flex-flow:row wrap;
 	justify-content:center;
 }
 .item3{
+	padding:20px;
 	background-color:green;
 	width:800;
 	height:200;
 }
 .item1{
 	background-color:red;
+	padding:20px;
+	width:800;
+	height:200;
 }
 .item2{
+
 	background-color:blue;
+	padding:20px;
+	width:800;
+	height:200;
 }
