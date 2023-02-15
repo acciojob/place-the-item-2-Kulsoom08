@@ -1,6 +1,7 @@
 
 /* Your CSS Code here. */
 .container{
+	display:flex;
 	element:inline element;
 	width:200px;
 	height:100px;
