@@ -1,6 +1,7 @@
 
 /* Your CSS Code here. */
 .container{
+	element:inline element;
 	width:200px;
 	height:100px;
 	flex-flow:column wrap;
